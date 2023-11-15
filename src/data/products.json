@@ -1,34 +1,34 @@
 [
-    {
+  {
     "id": 1,
     "title": "Game of Thrones",
     "description": "Game of Thrones Storm of Swords",
     "price": 7.99,
     "category": "Book",
-    "pictureUrl": "/public/images//game-of-thrones-storm-of-swords.png"
-    },
-    {
+    "pictureUrl": "/public/images/game-of-thrones-storm-of-swords.png"
+  },
+  {
     "id": 2,
     "title": "Inspiron 3525",
     "price": 500,
     "description": "Notebook Gamer",
-    "category": "Laptop",
+    "category":"Laptop",
     "pictureUrl": "./images/laptop.png"
-    },
-    {
+  },
+  {
     "id": 3,
     "title": "Smart Tv ",
     "price": 400,
     "description": "Lg 55 pulgadas",
-    "category": "Tv",
+    "category":"Tv" ,
     "pictureUrl": "./images/tv.png"
-    },
-    {
+  },
+  {
     "id": 4,
     "title": "Lavarropas",
     "price": 550,
     "description": "Lavarropas automatico Candy",
-    "category": "Washer",
+    "category":"Washer",
     "pictureUrl": "./images/washer.png"
-    }
+  }
 ]

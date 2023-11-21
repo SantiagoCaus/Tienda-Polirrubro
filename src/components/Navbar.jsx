@@ -24,6 +24,10 @@ export const Navbar = () => {
         <img className="logo p-2" src="/public/images/carrito-azul-logo.png" alt="logo"width="150" height="100" />
       </Link>
       <ul className="nav-list">
+        <Link to ="/">Home</Link>
+        <Link to= "/category/Book">Libros</Link>
+        <Link to="/category/Tv">Tv</Link>
+        <Link to="/category/Washer">Washer</Link>
         <Link to={"/cart"} style={navStyles}>
           <li className="fs-2 p-4">
             Cart items: <span className="cart-count">{quantity}</span>
